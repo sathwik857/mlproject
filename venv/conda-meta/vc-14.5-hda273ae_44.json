@@ -1,0 +1,35 @@
+{
+  "build": "hda273ae_44",
+  "build_number": 44,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "constrains": [],
+  "depends": [
+    "vc14_runtime >=14.51.36247"
+  ],
+  "extracted_package_dir": "C:\\Users\\sathw\\anaconda3\\pkgs\\vc-14.5-hda273ae_44",
+  "features": "",
+  "files": [
+    ".nonadmin"
+  ],
+  "fn": "vc-14.5-hda273ae_44.conda",
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "C:\\Users\\sathw\\anaconda3\\pkgs\\vc-14.5-hda273ae_44",
+    "type": 1
+  },
+  "md5": "19a8e2bcc6ec599c4ba2e0dc0fb3475b",
+  "name": "vc",
+  "package_tarball_full_path": "C:\\Users\\sathw\\anaconda3\\pkgs\\vc-14.5-hda273ae_44.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "2db82e4c8848e34728776539e0cd40b1eea12858c6135e92326b8e083f204fe4",
+  "size": 18004,
+  "subdir": "win-64",
+  "timestamp": 1794654419835,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/win-64/vc-14.5-hda273ae_44.conda",
+  "version": "14.5"
+}
