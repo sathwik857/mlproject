@@ -5,5 +5,5 @@ seaborn
 dill
 xgboost
 catboost
-sklearn
+scikit-learn
 #-e .
